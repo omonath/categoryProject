@@ -6,26 +6,25 @@ const categories = [
     id: 1,
     name: "Technology",
     description: "Latest trends in technology",
-    imageUrl: " src/assets/image/p3.jpg",
+    imageUrl: " public/image/p1.jpg",
   },
   {
     id: 2,
     name: "Health",
     description: "Health and wellness tips",
-    imageUrl: " src/assets/image/p1.jpg",
+    imageUrl: " public/image/p3.jpg",
   },
   {
     id: 3,
     name: "Business",
     description: "Business and finance news",
-    imageUrl: " src/assets/image/p2.jpg",
+    imageUrl: " public/image/p2.jpg",
   },
   {
     id: 4,
     name: "Lifestyle",
     description: "Lifestyle and culture",
-    imageUrl:
-      " src/assets/image/pexels-zeke-syrcle-2150599202-31225680 (2).jpg",
+    imageUrl: " public/image/pexels-zeke-syrcle-2150599202-31225680 (2).jpg",
   },
 ];
 
